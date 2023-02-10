@@ -1,2 +1,2 @@
 #!/bin/bash
-jgfjfjfgkjgfj
+ln -s /bin/ls __ls__
